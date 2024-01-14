@@ -5,6 +5,9 @@ This is a Python Based GUI tool that can be used by members of custom showdown s
 If you would like a version of this tool that syncs with your own git repository for moves, abilities, and types, please contact me on Discord at mothday_delta.
 For this tool to work, it needs permission to connect to the internet and permission to write files in its directory
 
+Most Recent Versions:
+Pokemon Showdown: V1
+
 Known Issues:
 Deleting a move from the learnset or TM set will delete the last one in the list instead of the move clicked on
 
